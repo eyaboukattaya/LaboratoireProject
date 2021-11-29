@@ -1,0 +1,14 @@
+.container {
+    border: 100px ridge #f00;
+    background-color: #ff0;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.container p {
+    font: small-caps bold 1.2rem sans-serif;
+    text-align: center;
+}

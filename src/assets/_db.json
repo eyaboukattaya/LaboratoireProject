@@ -1,0 +1,13 @@
+{"members" : [
+{"id":"1",
+    "cin":"12345678",
+    "name":"eya boukattaya",
+    "createdDate":"2021-09","cv":"https://www.cdc.gov/polio/stop/pdf/stop-cv-format.pdf","type":"étudiante"},
+    {"id":"2",
+        "cin":"12345678",
+        "name":"ameni krichen",
+        "createdDate":"2021-09","cv":"https://www.cdc.gov/polio/stop/pdf/stop-cv-format.pdf","type":"étudiante"}
+
+]
+
+}
